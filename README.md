@@ -4,6 +4,6 @@ Soilbird-backend is the back-end for a smart irrigation web controller applicati
 
 The back-end was made in *Nest.js*
 
-You can check out the front-end for this project here: [Soilbird-frontend](https://github.com/topiaspeiponen/soilbird-helsinki)
+You can check out the front-end for this project here: [Soilbird-frontend](https://github.com/topiaspeiponen/soilbird-frontend-public)
 
 - Topias Peiponen
